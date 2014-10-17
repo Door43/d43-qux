@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qux:home|Door43 (qux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qux|d43-qux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qux/archive/master.zip|d43-qux.zip]]
+
+**Recent Changes**
+{{changes>ns = qux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qux|Ethnologue data]]
+
